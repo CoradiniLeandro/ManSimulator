@@ -1,0 +1,5 @@
+## Música do menu adicionada.
+## rmMenu criada.
+## Group Backgrounds nos sprites criado juntamente do sMenu.
+## Group Menu nos objects criado juntamente de 4 objects: oPlay, OCredits, oExit, oMenu.
+## Adicionada a função de fullscreen switching
